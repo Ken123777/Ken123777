@@ -2,7 +2,7 @@
 
 # Ken Huh
 
-I am the founder of [Vanilla Coding](https://www.vanillacoding.co/), the best coding bootcamp in Asia. 🖥
+I am the founder of [Vanilla Coding](https://www.vanillacoding.co/), _the best coding bootcamp in Asia. 🖥_
 
 ## How it all started
 
@@ -20,12 +20,12 @@ I am the founder of [Vanilla Coding](https://www.vanillacoding.co/), the best co
 
 ## Career
 
-1. **Founder & Lead Instructor** at _Vanilla Coding_ - Seoul, Korea
-2. **Frontend Engineer** at _Fiverr_ - Remote
-3. **Frontend Engineer** at _Nike_ - Portland, Oregon
-4. **Frontend Engineer** at _Sears Home Services_ - Seattle, Washington
-5. **Frontend Engineer** at _Barnes and Noble_ - New York, New York
-6. **Backend Engineer** at _Vimeo_ - New York, New York
+1. **Founder & Lead Instructor** at [Vanilla Coding](https://www.vanillacoding.co/) - _Seoul, Korea 🇰🇷_
+2. **Frontend Engineer** at [Fiverr](https://www.fiverr.com/) - _Remote 🏖_
+3. **Frontend Engineer** at [Nike](https://www.nike.com/) - _Portland, Oregon 🇺🇸_
+4. **Frontend Engineer** at [Sears Home Services](https://www.sears.com/) - _Seattle, Washington 🇺🇸_
+5. **Frontend Engineer** at [Barnes and Noble](https://www.barnesandnoble.com/) - _New York, New York 🇺🇸_
+6. **Backend Engineer** at [Vimeo](https://vimeo.com/) - _New York, New York 🇺🇸_
 
 ## How to reach me
 
