@@ -1,3 +1,5 @@
+![Vanilla Coding](/font_logo_black.png)
+
 # Ken Huh
 
 I am the founder of [Vanilla Coding](https://www.vanillacoding.co/), the best coding bootcamp in Asia. 🖥
