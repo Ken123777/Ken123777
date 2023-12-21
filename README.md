@@ -1,4 +1,4 @@
-![Vanilla Coding](/font_logo_black.png)
+![Vanilla Coding](/facebook%20profile%20cover@2x.png)
 
 # Ken Huh
 
