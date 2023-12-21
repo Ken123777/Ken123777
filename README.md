@@ -23,11 +23,12 @@ I am the founder of [Vanilla Coding](https://www.vanillacoding.co/), _the best c
 ## Career
 
 1. **Founder & Lead Instructor** at [Vanilla Coding](https://www.vanillacoding.co/) - _Seoul, Korea 🇰🇷_
-2. **Frontend Engineer** at [Fiverr](https://www.fiverr.com/) - _Remote 🏖_
-3. **Frontend Engineer** at [Nike](https://www.nike.com/) - _Portland, Oregon 🇺🇸_
-4. **Frontend Engineer** at [Sears Home Services](https://www.sears.com/) - _Seattle, Washington 🇺🇸_
-5. **Frontend Engineer** at [Barnes and Noble](https://www.barnesandnoble.com/) - _New York, New York 🇺🇸_
-6. **Backend Engineer** at [Vimeo](https://vimeo.com/) - _New York, New York 🇺🇸_
+2. **Chief Technology Officer** at [Wired Company](https://www.wired.company/) - _Seoul, Korea 🇰🇷_
+3. **Frontend Engineer** at [Fiverr](https://www.fiverr.com/) - _Remote 🏖_
+4. **Frontend Engineer** at [Nike](https://www.nike.com/) - _Portland, Oregon 🇺🇸_
+5. **Frontend Engineer** at [Sears Home Services](https://www.sears.com/) - _Seattle, Washington 🇺🇸_
+6. **Frontend Engineer** at [Barnes and Noble](https://www.barnesandnoble.com/) - _New York, New York 🇺🇸_
+7. **Backend Engineer** at [Vimeo](https://vimeo.com/) - _New York, New York 🇺🇸_
 
 ## How to reach me
 
